@@ -1,0 +1,111 @@
+
+
+@font-face {
+  font-family: Cairo ;
+  src: url('../../public/Fonts/Cairo/Cairo-Regular.ttf');
+  font-weight: 400;
+}
+
+
+@font-face {
+  font-family: Cairo ;
+  src: url('../../public/Fonts/Cairo/Cairo-Medium.ttf');
+  font-weight: 500;
+}
+
+
+@font-face {
+  font-family: Cairo ;
+  src: url('../../public/Fonts/Cairo/Cairo-ExtraLight.ttf');
+  font-weight: 100;
+}
+
+
+@font-face {
+  font-family: Cairo ;
+  src: url('../../public/Fonts/Cairo/Cairo-Light.ttf');
+  font-weight: 200;
+}
+
+
+@font-face {
+  font-family: Cairo ;
+  src: url('../../public/Fonts/Cairo/Cairo-SemiBold.ttf');
+  font-weight: 600;
+}
+
+
+@font-face {
+  font-family: Cairo ;
+  src: url('../../public/Fonts/Cairo/Cairo-Bold.ttf');
+  font-weight: 700;
+}
+
+
+@font-face {
+  font-family: Cairo ;
+  src: url('../../public/Fonts/Cairo/Cairo-ExtraBold.ttf');
+  font-weight: 800;
+}
+
+
+@font-face {
+  font-family: Cairo ;
+  src: url('../../public/Fonts/Cairo/Cairo-Black.ttf');
+  font-weight: 900;
+}
+
+
+
+/* ReadexPro */
+
+@font-face {
+  font-family: ReadexPro ;
+  src: url('../../public/Fonts/ReadexPro/ReadexPro-Regular.ttf');
+  font-weight: 400;
+}
+
+
+@font-face {
+  font-family: ReadexPro ;
+  src: url('../../public/Fonts/ReadexPro/ReadexPro-Medium.ttf');
+  font-weight: 500;
+}
+
+
+@font-face {
+  font-family: ReadexPro ;
+  src: url('../../public/Fonts/ReadexPro/ReadexPro-ExtraLight.ttf');
+  font-weight: 100;
+}
+
+
+@font-face {
+  font-family: ReadexPro ;
+  src: url('../../public/Fonts/ReadexPro/ReadexPro-Light.ttf');
+  font-weight: 200;
+}
+
+
+@font-face {
+  font-family: ReadexPro ;
+  src: url('../../public/Fonts/ReadexPro/ReadexPro-SemiBold.ttf');
+  font-weight: 600;
+}
+
+
+@font-face {
+  font-family: ReadexPro ;
+  src: url('../../public/Fonts/ReadexPro/ReadexPro-SemiBold.ttf');
+  font-weight: 700;
+}
+
+
+@font-face {
+  font-family: ReadexPro ;
+  src: url('../../public/Fonts/ReadexPro/ReadexPro-Bold.ttf');
+  font-weight: 800;
+}
+
+
+
